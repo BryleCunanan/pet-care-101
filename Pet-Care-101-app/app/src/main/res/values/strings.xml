@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pet Care 101</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="set_time">Loading…</string>
+    <string name="submit_button">Submit</string>
+    <string name="btn_settime">Set</string>
+    <string name="pet_weight">Serving size</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="get_bpm">Get BPM</string>
+    <string name="title_harness">Harness</string>
+    <string name="title_dispenser">Dispenser</string>
+    <string name="title_geofencing">Geofencing</string>
+    <string name="unit_measurement">g</string>
+</resources>

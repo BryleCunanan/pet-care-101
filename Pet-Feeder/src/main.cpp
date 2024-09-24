@@ -41,16 +41,16 @@
 #define SCK 4       // green | HX711 Amplifier for load cell
 #define cameraFlash 12
 
-#define ssid "Bryyy's Phone"
-#define password "dikoalamwalangspace"
-#define API_KEY "AIzaSyBjQGjgmOahAlb15wu56Y5TVvvxvRa84nA"
-#define DATABASE_URL "https://thesis-v1-pet-feeder-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define ssid "***********"
+#define password "***********"
+#define API_KEY "***********"
+#define DATABASE_URL "***********"
 
-#define STORAGE_BUCKET_ID "thesis-v1-pet-feeder.appspot.com"
+#define STORAGE_BUCKET_ID "***********"
 #define FILE_PHOTO_PATH "/photo.jpg"
 #define BUCKET_PHOTO "/data/photo.jpg"
 
-#define ntpServer "asia.pool.ntp.org"
+#define ntpServer "***********.pool.ntp.org"
 #define gmtOffset_sec 28800
 #define daylightOffset_sec 0
 
